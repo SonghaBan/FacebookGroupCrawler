@@ -1,5 +1,5 @@
 # FacebookGroupCrawler
-crawl facebook private group
+crawl facebook private group posts
 
 ### Installation
 Requirements:
